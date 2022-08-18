@@ -1,0 +1,704 @@
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Definitions.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Private/ProtocolFactory.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Private\ProtocolFactory.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Protocol.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IProtocol.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdDynamic.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RName.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstddef
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\yvals_core.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\sal.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\concurrencysal.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vadefs.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xkeycheck.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xtr1common
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdint
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\stdint.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\deque
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xmemory
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\limits.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\limits
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cfloat
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\climits
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cwchar
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\intrin0.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\intrin0.inl.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\isa_availability.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xstddef
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\initializer_list
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\new
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\exception
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_new_debug.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_new.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\crtdefs.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\use_ansi.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\type_traits
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_exception.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xatomic.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xutility
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstring
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\utility
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\functional
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\tuple
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\typeinfo
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_typeinfo.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\memory
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\iosfwd
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vector
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\algorithm
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cmath
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\iterator
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\stdexcept
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xstring
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\ostream
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\ios
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xlocnum
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\streambuf
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\system_error
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\__msvc_system_error_abi.hpp
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cerrno
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xcall_once.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xerrc.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\atomic
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xthreads.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xtimec.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xlocale
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xfacet
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xlocinfo
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\__msvc_xlocinfo_types.hpp
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cctype
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\string
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Serializers.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/RdId.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Buffer.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/DateTime.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_util.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\erase_if.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\gen_util.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/allocator.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\overloaded.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\shared_function.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/to_string.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\thread
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\chrono
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_startup.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\sstream
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\istream
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\future
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\condition_variable
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\mutex
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\ppltasks.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\pplwin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\pplinterface.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\ppltaskscheduler.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\crtdefs.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\pplcancellation_token.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\intrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\setjmp.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\immintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\wmmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\nmmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\smmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\tmmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\pmmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\emmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xmmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\mmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\zmmintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\ammintrin.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\locale
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xlocbuf
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xlocmes
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xlocmon
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xloctime
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\codecvt
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/wrapper.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/spdlog.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/xchar.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/xchar.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\unordered_map
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xhash
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\list
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xbit_ops.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/os.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/version.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/synchronous_factory.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\iostream
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/list.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\hashing.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ISerializable.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Identities.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IUnknownInstance.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/RdAny.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization\DefaultAbstractDeclaration.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/unordered_map.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\unordered_set
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/base/IScheduler.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IWire.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/base/interfaces.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/Lifetime.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeImpl.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\map
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xtree
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IRdReactive.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdBindable.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdWireable.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/Property.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IProperty.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalX.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalCookie.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\IPropertyBase.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/SequentialLifetimes.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeDefinition.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/SerializationCtx.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\regex
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\intern/InternRoot.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdReactiveBase.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdBindableBase.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\guards.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\intern\InternScheduler.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/InternedAnySerializer.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/SerializationCtx.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\wire/SocketWire.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/WireBase.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/MessageBroker.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\queue
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\wire\ByteBufferAsyncProcessor.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\wire\PkgInputStream.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\array
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\CoreTypes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Build.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\CoreFwd.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\strsafe.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\stdarg.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Models.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Crc.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wctype.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/CString.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Function.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Decay.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime/Launch/Resources/Version.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformFileManager.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/App.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/Array.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/ContainerElementTypeCompatibility.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Less.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/Sort.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Parse.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/Interval.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/Map.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/Set.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/RetainedRef.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Guid.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Traits/ElementType.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/Range.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Math/Color.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdkddkver.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/daily_file_sink.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/file_helper.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/chrono.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/chrono.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/base_sink.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/sink.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/formatter.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Private/RiderLink.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Private\RiderLink.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\IRiderLink.hpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol\RdEditorModel/RdEditorModel.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdSignal.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Polymorphic.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdProperty.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdPropertyBase.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdList.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableList.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableList.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\viewable_collections.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdSet.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableSet.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableSet.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RdMap.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/ViewableMap.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IViewableMap.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/ISerializersOwner.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/NullableSerializer.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/AbstractPolymorphic.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\framework_traits.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ArraySerializer.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/InternedSerializer.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\ext/RdExtBase.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\ext\ExtWire.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdCall.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTask.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTaskImpl.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\RdTaskResult.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/SynchronousScheduler.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\WiredRdTask.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task\WiredRdTaskImpl.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdEndpoint.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\task/RdSymmetricCall.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/enum.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol\instantiations_RdEditorRoot.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UnrealLogEvent.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\instantiations_UE4Library.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\UE4TypesMarshallers.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/LogMessageInfo.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/StringRange.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/BlueprintReference.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UClass.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/PlayState.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/RequestResultBase.Generated.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/SingleThreadScheduler.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler\base/SingleThreadSchedulerBase.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UE4Library.Generated.h
+U:\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Private/UE4TypesMarshallers.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\BlueprintFunction.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\BlueprintHighlighter.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\EmptyScriptCallStack.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\IScriptCallStack.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\IScriptCallStack_Unknown.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\IScriptMsg.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\IScriptMsg_Unknown.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\NotificationType.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\RequestFailed.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\RequestResultBase_Unknown.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\RequestSucceed.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\ScriptCallStack.Generated.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/ScriptCallStackFrame.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\ScriptMsgCallStack.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library\ScriptMsgException.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library\UE4Library/UnableToDisplayScriptCallStack.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Generated.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.cpp
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Generated.cpp
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol\RdEditorRoot/RdEditorRoot.Generated.h
+U:/UEDev/PortfolioProjects/PointScattering/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Generated.cpp

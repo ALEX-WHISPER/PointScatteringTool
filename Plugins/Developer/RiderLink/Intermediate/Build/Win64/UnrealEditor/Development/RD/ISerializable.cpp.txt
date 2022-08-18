@@ -1,0 +1,90 @@
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ISerializable.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\string
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\yvals_core.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\sal.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\concurrencysal.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vadefs.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xkeycheck.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xstring
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\iosfwd
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_new_debug.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_new.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\crtdefs.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\use_ansi.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstring
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cwchar
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xstddef
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xtr1common
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\limits.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\initializer_list
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xmemory
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cstdint
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\stdint.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\limits
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cfloat
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\climits
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\intrin0.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\intrin0.inl.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\isa_availability.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\new
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\exception
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\type_traits
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_exception.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xatomic.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xutility
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\utility
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xpolymorphic_allocator.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\tuple
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cctype
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
+U:\UEDev\PortfolioProjects\PointScattering\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\functional
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\typeinfo
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vcruntime_typeinfo.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\memory
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\unordered_map
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xhash
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\cmath
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\list
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\vector
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xbit_ops.h
+U:\VisualStudio_2022\VC\Tools\MSVC\14.30.30705\INCLUDE\xnode_handle.h
